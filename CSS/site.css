@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(53, 51, 51);
+}
+
+.pai{
+    display: flex;
+    gap: 10px;
+    height: 600px;
+    flex-direction: row;
+    background-color: aqua;
+}
+
+.filho{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+
+}
